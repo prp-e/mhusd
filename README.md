@@ -25,3 +25,6 @@ In this repository, I try my best (with the help of my crypto bro friends and AI
 - [x] Develop a test environment for swapping the token with actual TRX tokens or USDT. 
     - Has been done on tronscan.
 - [ ] If successful, deploy on the mainnet. 
+- [ ] Develop a website for the project to correct the reputation of the project even on testnet.
+    - [ ] Needs better name.
+    - [ ] Needs better logo.
