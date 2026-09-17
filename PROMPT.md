@@ -44,3 +44,7 @@ Put the final contract in one single block of code and for each function and met
 On Tronscan, it says the contract is suspicious. Why does this happen? How can I revert it? If there is something with the contract, rewrite it from scratch to prevent it.
 
 Answer: It wasn't a contract issue.
+
+## Test #1 
+
+Now, give me instructions how can I test it and have some MHUSD in my wallet. I need the test to be done on tronscan, but give me a clear instruction with less words and more straightforward guidance.
