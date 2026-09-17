@@ -13,6 +13,7 @@ In this repository, I try my best (with the help of my crypto bro friends and AI
 ## Important Notes
 
 - Deploying on mainnet may cost like $150 USD so I may need to raise some funds beforehand. 
+- Projects like this have been failed (Terra USD for example) so it needs to be tested in a limited environment and volunteers may be aware of possible dangers of the project.
 
 ## TODO List
 
