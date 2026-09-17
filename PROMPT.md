@@ -38,3 +38,7 @@ Make a token with these features:
 - Also the logo is : https://github.com/prp-e/mhusd/blob/main/mhusd.png?raw=true. Add the logo somewhere because it being shown in the tronscan is beautiful. 
 
 Put the final contract in one single block of code and for each function and method, provide a complete comment guide.
+
+## Troubleshoot #1
+
+On Tronscan, it says the contract is suspicious. Why does this happen? How can I revert it? If there is something with the contract, rewrite it from scratch to prevent it.
