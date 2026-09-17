@@ -28,3 +28,4 @@ In this repository, I try my best (with the help of my crypto bro friends and AI
 - [ ] Develop a website for the project to correct the reputation of the project even on testnet.
     - [ ] Needs better name.
     - [ ] Needs better logo.
+- [ ] Automate TRX price alignment.
