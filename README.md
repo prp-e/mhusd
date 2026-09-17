@@ -22,5 +22,6 @@ In this repository, I try my best (with the help of my crypto bro friends and AI
 - [x] Generate a logo for the token. 
 - [x] Craft a ChatGPT/Claude prompt for the contract. 
 - [x] Deploy the contract on Shasta Testnet. 
-- [ ] Develop a test environment for swapping the token with actual TRX tokens or USDT. 
+- [x] Develop a test environment for swapping the token with actual TRX tokens or USDT. 
+    - Has been done on tronscan.
 - [ ] If successful, deploy on the mainnet. 
