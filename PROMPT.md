@@ -42,3 +42,5 @@ Put the final contract in one single block of code and for each function and met
 ## Troubleshoot #1
 
 On Tronscan, it says the contract is suspicious. Why does this happen? How can I revert it? If there is something with the contract, rewrite it from scratch to prevent it.
+
+Answer: It wasn't a contract issue.
