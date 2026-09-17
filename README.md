@@ -12,6 +12,8 @@ In this repository, I try my best (with the help of my crypto bro friends and AI
 
 ## Important Notes
 
+- Deploying on mainnet may cost like $150 USD so I may need to raise some funds beforehand. 
+
 ## TODO List
 
 - [x] Making a simple OpenZeppelin template for the token. 
