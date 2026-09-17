@@ -10,6 +10,8 @@ In this repository, I try my best (with the help of my crypto bro friends and AI
 
 - Shasta Testnet : `TXdMfCC38o1NJMP58n9LmekGPJneLCeLqn`
 
+## Important Notes
+
 ## TODO List
 
 - [x] Making a simple OpenZeppelin template for the token. 
