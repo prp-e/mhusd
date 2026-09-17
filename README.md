@@ -14,6 +14,7 @@ In this repository, I try my best (with the help of my crypto bro friends and AI
 
 - Deploying on mainnet may cost like $150 USD so I may need to raise some funds beforehand. 
 - Projects like this have been failed (Terra USD for example) so it needs to be tested in a limited environment and volunteers may be aware of possible dangers of the project.
+- After deploying on the network, it can take up to 15 minutes for the contract to be recognized as a token or NFT or something like that.
 
 ## TODO List
 
