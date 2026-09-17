@@ -4,9 +4,9 @@ In this repository, I try my best (with the help of my crypto bro friends and AI
 
 ## TODO List
 
-- [ ] Making a simple OpenZeppelin template for the token. 
-- [ ] Generate a logo for the token. 
-- [ ] Craft a ChatGPT/Claude prompt for the contract. 
-- [ ] Deploy the contract on Shasta Testnet. 
+- [x] Making a simple OpenZeppelin template for the token. 
+- [x] Generate a logo for the token. 
+- [x] Craft a ChatGPT/Claude prompt for the contract. 
+- [x] Deploy the contract on Shasta Testnet. 
 - [ ] Develop a test environment for swapping the token with actual TRX tokens or USDT. 
 - [ ] If successful, deploy on the mainnet. 
