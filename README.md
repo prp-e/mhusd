@@ -30,3 +30,4 @@ In this repository, I try my best (with the help of my crypto bro friends and AI
     - [ ] Needs better logo.
 - [ ] Automate TRX price alignment.
 - [ ] Decimals must be fixed as well.
+- [ ] Craft a prompt to do everything better.
