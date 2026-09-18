@@ -8,6 +8,10 @@ In this repository, I try my best (with the help of my crypto bro friends and AI
 
 ## Addresses
 
+- Nile Testnet: `TEVFKbpjaKq2qSt8NAoFPSF74LSStFrNeU`
+
+### Deprecated 
+
 - Shasta Testnet : `TCtGrCZ5TnaPJZTzYNmmo4RbwcnJTP7cxb`
 - WinkLink for TRX/USD price: `TR5HtpPK4gX4RFC4DCBUHfFgsGkGFEzSAb`
 
