@@ -9,6 +9,7 @@ In this repository, I try my best (with the help of my crypto bro friends and AI
 ## Addresses
 
 - Shasta Testnet : `TCtGrCZ5TnaPJZTzYNmmo4RbwcnJTP7cxb`
+- WinkLink for TRX/USD price: `TR5HtpPK4gX4RFC4DCBUHfFgsGkGFEzSAb`
 
 ## Important Notes
 
