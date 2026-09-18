@@ -1,4 +1,4 @@
-# MHUSD : Muhammadreza Haghiri's effort to create virtual dollars!
+# MHUSD : Muhammadreza Haghiri's effort to create virtual dollars! (Project Retired)
 
 <p align="center">
     <img src="mhusd.png" width="512px" />
