@@ -6,6 +6,10 @@
 
 In this repository, I try my best (with the help of my crypto bro friends and AI friends!) to create an algorithmic stable coin which keeps itself on one dollar per token based on TRX's price. Of course due to low price of TRX, it may be implemented on BNB or Solana as well (BNB is preferred of course.)
 
+## Why did I retire the project?
+
+Simply because I could learn everything I wanted to learn. Now, it's time for a more serious project in the same space.
+
 ## Addresses
 
 - Nile Testnet: `TEVFKbpjaKq2qSt8NAoFPSF74LSStFrNeU`
