@@ -175,7 +175,7 @@ contract MuhammadrezaHaghiriSUSD
 
         This prevents an old TRX price from being used indefinitely.
     */
-    uint256 public constant MAX_PRICE_AGE = 1 hours;
+    uint256 public constant MAX_PRICE_AGE = 24 hours;
 
 
     /*
