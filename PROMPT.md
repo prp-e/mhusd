@@ -51,4 +51,4 @@ Now, give me instructions how can I test it and have some MHUSD in my wallet. I 
 
 ## Improvement
 
-Improve the contract in a way where it can automatically find TRX/USD price. Currently it's done by hand. 
+Improve the contract in a way where it can automatically find TRX/USD price. Currently it's done by hand. Since the entirety of the contract works fine, do not change anything and only modify this part.
