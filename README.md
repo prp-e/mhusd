@@ -8,7 +8,7 @@ In this repository, I try my best (with the help of my crypto bro friends and AI
 
 ## Addresses
 
-- Shasta Testnet : `TXdMfCC38o1NJMP58n9LmekGPJneLCeLqn`
+- Shasta Testnet : `TCtGrCZ5TnaPJZTzYNmmo4RbwcnJTP7cxb`
 
 ## Important Notes
 
