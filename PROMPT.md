@@ -48,3 +48,7 @@ Answer: It wasn't a contract issue.
 ## Test #1 
 
 Now, give me instructions how can I test it and have some MHUSD in my wallet. I need the test to be done on tronscan, but give me a clear instruction with less words and more straightforward guidance.
+
+## Improvement
+
+Improve the contract in a way where it can automatically find TRX/USD price. Currently it's done by hand. 
